@@ -23,10 +23,10 @@
 <br>
 
 ### 🤝 Conecte-se comigo
-<div> 
-  <a href="https://www.linkedin.com/in/seu-usuario-linkedin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/seu-usuario-instagram" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:seu.email@exemplo.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/willian-ciurlleti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/dev_willian_c/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contato@devwillian.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 ---
@@ -35,11 +35,13 @@
 
 <p align="center">
   <a href="https://github.com/WillianCiurlleti">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WillianCiurlleti&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianCiurlleti&layout=compact&langs_count=8&theme=catppuccin_latte"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WillianCiurlleti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianCiurlleti&layout=compact&langs_count=8&theme=dracula"/>
   </a>
 </p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WillianCiurlleti&theme=catppuccin_latte&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=WillianCiurlleti&theme=dracula&row=1&column=7" alt="GitHub Trophies"/>
+  </a>
 </div>
