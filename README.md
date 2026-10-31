@@ -61,7 +61,7 @@
 <h3 align="center">📊 Estatísticas do GitHub</h3>
 
 <p align="center">
-  <img src="https://deno-github-readme-stats.deno.dev/api?username=WillianCiurlleti&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WillianCiurlleti&theme=tokyonight" alt="Resumo de Perfil" />
 </p>
 
 <p align="center">
