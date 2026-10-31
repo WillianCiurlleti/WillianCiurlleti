@@ -61,8 +61,8 @@
 <h3 align="center">📊 Estatísticas do GitHub</h3>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=WillianCiurlleti&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=WillianCiurlleti&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens Mais Utilizadas" />
+  <img src="https://github-readme-stats.salesp07.dev/api?username=WillianCiurlleti&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.salesp07.dev/api/top-langs/?username=WillianCiurlleti&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Utilizadas" />
 </p>
 
 <p align="center">
