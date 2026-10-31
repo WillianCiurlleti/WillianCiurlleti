@@ -61,8 +61,7 @@
 <h3 align="center">📊 Estatísticas do GitHub</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.salesp07.dev/api?username=WillianCiurlleti&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.salesp07.dev/api/top-langs/?username=WillianCiurlleti&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Utilizadas" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WillianCiurlleti&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de Atividade" />
 </p>
 
 <p align="center">
