@@ -31,17 +31,18 @@
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+<h3 align="center">📊 Minhas Estatísticas no GitHub</h3>
 
 <p align="center">
   <a href="https://github.com/WillianCiurlleti">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WillianCiurlleti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianCiurlleti&layout=compact&langs_count=8&theme=dracula"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=WillianCiurlleti&show_icons=true&theme=dracula&include_all_commits=true" alt="Estatísticas do GitHub" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianCiurlleti&layout=compact&langs_count=8&theme=dracula" alt="Linguagens mais usadas" />
   </a>
 </p>
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=WillianCiurlleti&theme=dracula&row=1&column=7" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=WillianCiurlleti&theme=dracula&row=1&column=7" alt="Troféus do GitHub" />
   </a>
-</div>
+</p>
+
